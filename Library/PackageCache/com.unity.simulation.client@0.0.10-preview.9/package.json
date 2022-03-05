@@ -1,0 +1,15 @@
+{
+  "name": "com.unity.simulation.client",
+  "displayName": "Unity Simulation Client",
+  "version": "0.0.10-preview.9",
+  "unity": "2018.4",
+  "description": "Contains functionality to use the Unity Simulation service from scripts.",
+  "upmCi": {
+    "footprint": "39cb9d206949bd1d7ca48130f400a9a61140bcdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.simulation.client.git",
+    "revision": "71924dd947f9dd157be2332bb52106a2ae768cfd"
+  }
+}
